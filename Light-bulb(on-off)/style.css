@@ -1,0 +1,40 @@
+h1{
+    display: inline-block;
+    text-align: centre;
+    
+    padding: 20px;
+background-color: rgb(139, 61, 61);
+    color: rgb(240, 238, 243);
+    margin-left: 40%;
+border-radius:9px;
+
+}
+p{
+margin-left: 35%;   
+background-color: rgb(243, 195, 132); 
+height: fit-content;
+width: fit-content;
+font-style: italic;
+font-size: 2em;
+display: inline-block;
+border-radius: 7px;
+color: brown;
+}
+#myImage{
+    width: 200px;
+    height: 300px;
+    margin-left: 42%;
+padding: 20px;
+
+}
+button{
+    background-color:rgb(74, 206, 74);
+    margin-left: 47%;
+    padding: 10px;
+    border-color: green;
+    color: rgb(4, 29, 4);
+    border-radius: 3em;
+    font-family:cursive;
+    
+}
+
